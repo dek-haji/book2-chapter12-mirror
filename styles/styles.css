@@ -1,0 +1,29 @@
+body{
+    background-color: peru;
+    
+}
+        #wrapper{
+            display: flex;
+            flex-wrap: nowrap
+        
+        }
+#art1{
+    
+    
+    border: 1px solid wheat;
+    padding: 10px;
+    margin: 10px;
+    width: 50%;
+}
+#art2{
+
+    border: 1px solid wheat;
+    
+    padding: 10px;
+    margin: 10px;
+    width: 50%
+}
+#message{
+    display: flex;
+    font-size: 10%
+}
